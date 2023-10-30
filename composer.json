@@ -24,6 +24,7 @@
         "drupal/core-vendor-hardening": "^9.5",
         "drupal/csv_serialization": "^2.0",
         "drupal/imce": "^3.0",
+        "drupal/memcache": "^2.5",
         "drupal/menu_item_role_access": "^2.1",
         "drupal/menu_per_role": "^1.5",
         "drupal/registration_role": "^2.0",
